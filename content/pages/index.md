@@ -87,7 +87,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: aa
+        title: ''
         subtitle: ''
         text: >+
           Superb packaging this is how it should be done, the pouch for the
