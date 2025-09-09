@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Testimonials
       color: text-light
       styles:
         self:
