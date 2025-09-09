@@ -145,9 +145,7 @@ sections:
 
 
 
-          <div style="text-align: right">*artydan80 - eBay Customer*</div>
-
-
+          <div style="text-align: right">*Artydan80 - eBay Customer*</div>
 
         image:
           type: ImageBlock
