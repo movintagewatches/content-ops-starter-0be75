@@ -69,7 +69,7 @@ sections:
           explicabo.
         actions: []
         elementId: null
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
