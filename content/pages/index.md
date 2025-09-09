@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Curators of Timeless Horology
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: >
