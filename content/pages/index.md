@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Link
       - type: Button
-        label: Get started
+        label: Etsy Shop
         altText: ''
         url: /
         showIcon: false
