@@ -125,8 +125,18 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          The item is everything I wanted and better than expected, the seller
+          was helpful, informative and kept me up to date with info. Brilliant
+          item and brilliant seller.
+
+
+
+
+          <div style="text-align: right">*artydan80 - eBay Customer*</div>
+
+
+
         image:
           type: ImageBlock
           url: /images/6293835a30fb025780ee2969 1.png
