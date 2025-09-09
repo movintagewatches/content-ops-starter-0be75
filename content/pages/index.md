@@ -61,7 +61,7 @@ sections:
     subtitle: Our customers are our priority
     items:
       - type: FeaturedItem
-        title: '  qaea'
+        title: ''
         subtitle: ''
         text: >+
           Arived next day, looks even better in my hand than it did in the
