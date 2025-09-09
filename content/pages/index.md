@@ -132,7 +132,7 @@ sections:
             flexDirection: col
             textAlign: justify
       - type: FeaturedItem
-        title: '2'
+        title: ''
         tagline: ''
         subtitle: ''
         text: >+
