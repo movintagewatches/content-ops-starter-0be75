@@ -160,7 +160,7 @@ sections:
             flexDirection: col
             textAlign: justify
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
