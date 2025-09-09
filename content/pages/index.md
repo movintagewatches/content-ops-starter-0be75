@@ -2,54 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Curators of Timeless Horology
-      color: text-primary
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      MO Vintage Watches specializes in curating, servicing, and valuing fine
-      vintage timepieces. Discover our passion for horological history.
-    actions:
-      - label: eBay Shop
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/Group 32 (1).png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -167,6 +119,54 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Curators of Timeless Horology
+      color: text-primary
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      MO Vintage Watches specializes in curating, servicing, and valuing fine
+      vintage timepieces. Discover our passion for horological history.
+    actions:
+      - label: eBay Shop
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: /images/Group 32 (1).png
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
