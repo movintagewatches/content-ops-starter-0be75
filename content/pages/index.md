@@ -103,7 +103,7 @@ sections:
           Brilliant item and brilliant seller."
 
 
-          <div style="text-align: center">*Artydan80 - eBay Customer*</div>
+          <div style="text-align: right">*Artydan80 - eBay Customer*</div>
 
         image:
           type: ImageBlock
