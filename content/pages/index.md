@@ -12,7 +12,7 @@ sections:
       MO Vintage Watches specializes in curating, servicing, and valuing fine
       vintage timepieces. Discover our passion for horological history.
     actions:
-      - label: Shop on eBay
+      - label: eBay Shop
         altText: ''
         url: /
         showIcon: false
