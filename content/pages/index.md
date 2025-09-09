@@ -155,6 +155,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: justify
     actions:
       - label: Get started
         altText: ''
