@@ -90,12 +90,18 @@ sections:
         title: aa
         subtitle: ''
         text: >+
-          Arrived next day, looks even better in my hand than it did in the
-          photos, Superb transaction from start to finish. Will be looking at MO
-          vintage first for the next watch for my collection.
+          Superb packaging this is how it should be done, the pouch for the
+          watch was the icing on the cake. Postage costs were very reasonable
+          and the watch are very quickly. I have waited a little while before
+          reviewing to have more time with the watch. The watch runs beautifully
+          keeping great time and is exactly as described and photographed maybe
+          even better. I would recommend this seller and have no hesitation in
+          buying again from this seller
 
 
-          <div style="text-align: right">*<sub>eBay Customer</sub>*</div>
+
+          <div style="text-align: right">*<sub>november5th1955uk - eBay
+          Custormer</sub>*</div>
 
         actions: []
         colors: bg-light-fg-dark
