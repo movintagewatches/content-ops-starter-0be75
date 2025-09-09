@@ -80,7 +80,7 @@ sections:
             self:
               borderRadius: x-large
               padding:
-                - pl-10
+                - pl-0
         actions: []
         colors: bg-light-fg-dark
         styles:
