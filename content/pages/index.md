@@ -99,14 +99,16 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          The item is everything I wanted and better than expected, the seller
-          was helpful, informative and kept me up to date with info. Brilliant
-          item and brilliant seller.
+          Arrived next day, looks even better in my hand than it did in the
+          photos, Superb transaction from start to finish. Will be looking at MO
+          vintage first for the next watch for my collection.
 
 
 
 
-          <div style="text-align: right">*artydan80 - eBay Customer*</div>
+          <div style="text-align: right">*Anette4275 - eBay Customer*</div>
+
+
 
 
 
