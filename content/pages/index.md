@@ -90,18 +90,13 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Superb packaging this is how it should be done, the pouch for the
-          watch was the icing on the cake. Postage costs were very reasonable
-          and the watch are very quickly. I have waited a little while before
-          reviewing to have more time with the watch. The watch runs beautifully
-          keeping great time and is exactly as described and photographed maybe
-          even better. I would recommend this seller and have no hesitation in
-          buying again from this seller
+          The item is everything I wanted and better than expected, the seller
+          was helpful, informative and kept me up to date with info. Brilliant
+          item and brilliant seller.
 
 
-
-          <div style="text-align: right">*<sub>november5th1955uk - eBay
-          Custormer</sub>*</div>
+          <div style="text-align: right">*<sub>artydan80 - eBay
+          Customer</sub>*</div>
 
         actions: []
         colors: bg-light-fg-dark
