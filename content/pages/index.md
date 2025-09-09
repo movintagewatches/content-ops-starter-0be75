@@ -63,10 +63,10 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Arived next day, looks even better in my hand than it did in the
+          photos, Superb transaction from start to finish. Will be looking at MO
+          vintage first for the next watch for my collection.
         actions: []
         elementId: null
         colors: bg-light-fg-dark
