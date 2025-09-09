@@ -141,16 +141,16 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          The item is everything I wanted and better than expected, the seller
-          was helpful, informative and kept me up to date with info. Brilliant
-          item and brilliant seller.
+          The item arrived safely and promptly, following a notification of
+          postage from the seller. It was well packed and discovered to be in
+          great condition, exactly as described on the listing. Great value for
+          money, it is a beautiful 1940's Rolex Tudor watch which currently
+          appears to be in great working order.
 
 
 
 
-          <div style="text-align: right">*artydan80 - eBay Customer*</div>
-
-
+          <div style="text-align: right">*An-laath - eBay Customer*</div>
 
         image:
           type: ImageBlock
