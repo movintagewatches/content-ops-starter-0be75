@@ -90,13 +90,15 @@ sections:
         title: ''
         subtitle: ''
         text: >+
+
+
           The item is everything I wanted and better than expected, the seller
           was helpful, informative and kept me up to date with info. Brilliant
           item and brilliant seller.
 
 
-          <div style="text-align: right">*<sub>artydan80 - eBay
-          Customer</sub>*</div>
+          <div style="text-align: right"><sub>*artydan80 - eBay
+          Customer*</sub></div>
 
         actions: []
         colors: bg-light-fg-dark
