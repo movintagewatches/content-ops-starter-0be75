@@ -86,6 +86,30 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+      - type: FeaturedItem
+        title: aa
+        subtitle: ''
+        text: >+
+          Arrived next day, looks even better in my hand than it did in the
+          photos, Superb transaction from start to finish. Will be looking at MO
+          vintage first for the next watch for my collection.
+
+
+          <div style="text-align: right">*<sub>eBay Customer</sub>*</div>
+
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-14
+              - pl-8
+              - pb-2
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
     actions:
       - label: Get started
         altText: ''
