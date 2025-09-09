@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Arived next day, looks even better in my hand than it did in the
           photos, Superb transaction from start to finish. Will be looking at MO
