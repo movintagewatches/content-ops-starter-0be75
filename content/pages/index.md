@@ -98,9 +98,15 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
+
+
+
+
           "The item is everything I wanted and better than expected, the seller
           was helpful, informative and kept me up to date with info. Brilliant
           item and brilliant seller."
+
+
 
 
           <div style="text-align: center">*Artydan80 - eBay Customer*</div>
