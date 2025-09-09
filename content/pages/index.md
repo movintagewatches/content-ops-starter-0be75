@@ -7,7 +7,7 @@ sections:
       text: Curators of Timeless Horology
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       MO Vintage Watches specializes in curating, servicing, and valuing fine
       vintage timepieces. Discover our passion for horological history.
