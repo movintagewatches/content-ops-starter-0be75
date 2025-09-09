@@ -69,8 +69,8 @@ sections:
           vintage first for the next watch for my collection.
 
 
-          <div style="text-align: right"><sub>Anette4275 - eBay
-          Customer</sub></div>
+          <div style="text-align: right">*<sub>Anette4275 - eBay
+          Customer</sub>*</div>
 
         actions: []
         elementId: null
