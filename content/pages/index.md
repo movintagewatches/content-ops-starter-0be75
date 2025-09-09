@@ -86,7 +86,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: justify
+            textAlign: left
       - title: 20x
         subtitle: The Job Stuff
         text: >-
