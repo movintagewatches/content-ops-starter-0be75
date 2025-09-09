@@ -91,7 +91,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col-reverse
+            flexDirection: col
             textAlign: justify
       - type: FeaturedItem
         title: ''
