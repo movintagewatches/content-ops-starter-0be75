@@ -62,40 +62,6 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: ''
-        text: >+
-          Arrived next day, looks even better in my hand than it did in the
-          photos, Superb transaction from start to finish. Will be looking at MO
-          vintage first for the next watch for my collection.
-
-
-          <div style="text-align: right">*<sub>Anette4275 - eBay
-          Customer</sub>*</div>
-
-        actions: []
-        elementId: null
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: justify
-        image:
-          type: ImageBlock
-          url: /images/hero2.svg
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-      - type: FeaturedItem
-        title: ''
         tagline: ''
         subtitle: ''
         text: >+
