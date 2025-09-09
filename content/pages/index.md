@@ -53,7 +53,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
