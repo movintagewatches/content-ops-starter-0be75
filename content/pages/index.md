@@ -131,6 +131,43 @@ sections:
             borderRadius: x-large
             flexDirection: col
             textAlign: justify
+      - type: FeaturedItem
+        title: '2'
+        tagline: ''
+        subtitle: ''
+        text: >+
+          The item is everything I wanted and better than expected, the seller
+          was helpful, informative and kept me up to date with info. Brilliant
+          item and brilliant seller.
+
+
+
+
+          <div style="text-align: right">*artydan80 - eBay Customer*</div>
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/6293835a30fb025780ee2969 1.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+              padding:
+                - pl-0
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            textAlign: justify
     actions:
       - label: Get started
         altText: ''
