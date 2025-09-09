@@ -30,6 +30,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/Group 32 (1).png
       altText: Unblock your team boost your time to production preview
