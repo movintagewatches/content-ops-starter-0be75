@@ -64,11 +64,15 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          Arived next day, looks even better in my hand than it did in the
+
+
+
+
+
+
+          Arrived next day, looks even better in my hand than it did in the
           photos, Superb transaction from start to finish. Will be looking at MO
           vintage first for the next watch for my collection.
-
-
 
 
           <div style="text-align: right">*eBay Customer*</div>
