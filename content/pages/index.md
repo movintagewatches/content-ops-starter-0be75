@@ -117,6 +117,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              padding:
+                - pl-5
         actions: []
         colors: bg-light-fg-dark
         styles:
