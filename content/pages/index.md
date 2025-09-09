@@ -136,7 +136,7 @@ sections:
           great condition, exactly as described on the listing."
 
 
-          <div style="text-align: center">*An-laath - eBay Customer*</div>
+          <div style="text-align: right">*An-laath - eBay Customer*</div>
 
         image:
           type: ImageBlock
