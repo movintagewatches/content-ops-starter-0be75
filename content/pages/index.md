@@ -137,13 +137,11 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          The item arrived safely and promptly, following a notification of
+          "The item arrived safely and promptly, following a notification of
           postage from the seller. It was well packed and discovered to be in
           great condition, exactly as described on the listing. Great value for
           money, it is a beautiful 1940's Rolex Tudor watch which currently
-          appears to be in great working order.
-
-
+          appears to be in great working order."
 
 
           <div style="text-align: right">*An-laath - eBay Customer*</div>
