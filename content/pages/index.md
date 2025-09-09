@@ -64,12 +64,14 @@ sections:
         title: ''
         subtitle: ''
         text: >+
+
+
           Arrived next day, looks even better in my hand than it did in the
           photos, Superb transaction from start to finish. Will be looking at MO
           vintage first for the next watch for my collection.
 
 
-          <div style="text-align: right">*<sub>eBay Customer</sub>*</div>
+          <div style="text-align: right"><sub>*eBay Customer*</sub></div>
 
         actions: []
         elementId: null
