@@ -70,13 +70,7 @@ sections:
           vintage first for the next watch for my collection.
 
 
-
-
-          <div style="text-align: right">*Anette4275 - eBay Customer*</div>
-
-
-
-
+          <div style="text-align: center">*Anette4275 - eBay Customer*</div>
 
         image:
           type: ImageBlock
